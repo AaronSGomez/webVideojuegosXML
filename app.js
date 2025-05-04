@@ -16,7 +16,6 @@ async function cargarXML() {
       opcion3: p.getElementsByTagName("Opcion3")[0].textContent,
       respuestaCorrecta: p.getElementsByTagName("RespuestaCorrecta")[0].textContent
   }));
-
   seleccion =obtenerPreguntasAleatorias(preguntas);
   mostrarPregunta();
 }

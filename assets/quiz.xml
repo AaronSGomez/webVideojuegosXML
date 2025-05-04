@@ -867,6 +867,343 @@
         <Opcion3>Pico encantado</Opcion3>
         <RespuestaCorrecta>Elytra</RespuestaCorrecta>
     </Pregunta>
+    <Pregunta>
+    <Enunciado>¿Qué juego se desarrolla en la ciudad ficticia de Rapture?</Enunciado>
+    <Opcion1>BioShock</Opcion1>
+    <Opcion2>Half-Life</Opcion2>
+    <Opcion3>Fallout</Opcion3>
+    <RespuestaCorrecta>BioShock</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál de los siguientes juegos es un título de mundo abierto de CD Projekt Red?</Enunciado>
+    <Opcion1>The Witcher 3: Wild Hunt</Opcion1>
+    <Opcion2>Dragon Age: Inquisition</Opcion2>
+    <Opcion3>Dark Souls</Opcion3>
+    <RespuestaCorrecta>The Witcher 3: Wild Hunt</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué videojuego se utiliza una mecánica de portales para resolver acertijos?</Enunciado>
+    <Opcion1>Portal</Opcion1>
+    <Opcion2>Prey</Opcion2>
+    <Opcion3>Control</Opcion3>
+    <RespuestaCorrecta>Portal</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el nombre del protagonista de la saga Metal Gear Solid?</Enunciado>
+    <Opcion1>Solid Snake</Opcion1>
+    <Opcion2>Sam Fisher</Opcion2>
+    <Opcion3>Marcus Fenix</Opcion3>
+    <RespuestaCorrecta>Solid Snake</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué videojuego se ambienta en la ciudad de Los Santos?</Enunciado>
+    <Opcion1>Watch Dogs</Opcion1>
+    <Opcion2>Grand Theft Auto V</Opcion2>
+    <Opcion3>Sleeping Dogs</Opcion3>
+    <RespuestaCorrecta>Grand Theft Auto V</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego aparece un personaje llamado Geralt de Rivia?</Enunciado>
+    <Opcion1>Skyrim</Opcion1>
+    <Opcion2>The Witcher 3</Opcion2>
+    <Opcion3>Dark Souls</Opcion3>
+    <RespuestaCorrecta>The Witcher 3</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál de los siguientes juegos fue desarrollado por FromSoftware?</Enunciado>
+    <Opcion1>Dark Souls</Opcion1>
+    <Opcion2>Bloodborne</Opcion2>
+    <Opcion3>Ambos</Opcion3>
+    <RespuestaCorrecta>Ambos</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego de terror incluye la ciudad ficticia de Silent Hill?</Enunciado>
+    <Opcion1>Resident Evil</Opcion1>
+    <Opcion2>Silent Hill</Opcion2>
+    <Opcion3>Alan Wake</Opcion3>
+    <RespuestaCorrecta>Silent Hill</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego puedes cazar máquinas en un mundo postapocalíptico con la protagonista Aloy?</Enunciado>
+    <Opcion1>Horizon Zero Dawn</Opcion1>
+    <Opcion2>Far Cry New Dawn</Opcion2>
+    <Opcion3>Days Gone</Opcion3>
+    <RespuestaCorrecta>Horizon Zero Dawn</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el título del videojuego donde debes escapar de una prisión en primera persona usando parkour?</Enunciado>
+    <Opcion1>Mirror's Edge</Opcion1>
+    <Opcion2>Dying Light</Opcion2>
+    <Opcion3>Half-Life</Opcion3>
+    <RespuestaCorrecta>Mirror's Edge</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego popular fue desarrollado por Mojang y permite construir con bloques?</Enunciado>
+    <Opcion1>Minecraft</Opcion1>
+    <Opcion2>Roblox</Opcion2>
+    <Opcion3>Terraria</Opcion3>
+    <RespuestaCorrecta>Minecraft</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego puedes elegir entre tres clases: titán, hechicero y cazador?</Enunciado>
+    <Opcion1>Destiny</Opcion1>
+    <Opcion2>Warframe</Opcion2>
+    <Opcion3>Anthem</Opcion3>
+    <RespuestaCorrecta>Destiny</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué personaje principal tiene un brazo mecánico en Sekiro: Shadows Die Twice?</Enunciado>
+    <Opcion1>El Lobo</Opcion1>
+    <Opcion2>Isshin</Opcion2>
+    <Opcion3>Genichiro</Opcion3>
+    <RespuestaCorrecta>El Lobo</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego comienza con el protagonista despertando en un tren rumbo a City 17?</Enunciado>
+    <Opcion1>Metro Exodus</Opcion1>
+    <Opcion2>Half-Life 2</Opcion2>
+    <Opcion3>Deus Ex</Opcion3>
+    <RespuestaCorrecta>Half-Life 2</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál de estos juegos es un battle royale lanzado por Respawn Entertainment?</Enunciado>
+    <Opcion1>Fortnite</Opcion1>
+    <Opcion2>Apex Legends</Opcion2>
+    <Opcion3>PUBG</Opcion3>
+    <RespuestaCorrecta>Apex Legends</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego cuenta con una historia centrada en la infección del Cordyceps?</Enunciado>
+    <Opcion1>The Last of Us</Opcion1>
+    <Opcion2>Resident Evil 4</Opcion2>
+    <Opcion3>Days Gone</Opcion3>
+    <RespuestaCorrecta>The Last of Us</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué videojuego te enfrentas a los Colosos en un mundo casi deshabitado?</Enunciado>
+    <Opcion1>Shadow of the Colossus</Opcion1>
+    <Opcion2>ICO</Opcion2>
+    <Opcion3>Journey</Opcion3>
+    <RespuestaCorrecta>Shadow of the Colossus</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego desarrollado por Remedy mezcla acción y manipulación del tiempo?</Enunciado>
+    <Opcion1>Quantum Break</Opcion1>
+    <Opcion2>Max Payne</Opcion2>
+    <Opcion3>Control</Opcion3>
+    <RespuestaCorrecta>Quantum Break</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el nombre del personaje principal en la saga Uncharted?</Enunciado>
+    <Opcion1>Nathan Drake</Opcion1>
+    <Opcion2>Lara Croft</Opcion2>
+    <Opcion3>Joel Miller</Opcion3>
+    <RespuestaCorrecta>Nathan Drake</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego se sitúa en la región ficticia de Skyrim?</Enunciado>
+    <Opcion1>Dragon Age</Opcion1>
+    <Opcion2>The Elder Scrolls V</Opcion2>
+    <Opcion3>Kingdoms of Amalur</Opcion3>
+    <RespuestaCorrecta>The Elder Scrolls V</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué videojuego controlas al asesino conocido como Agent 47?</Enunciado>
+    <Opcion1>Max Payne</Opcion1>
+    <Opcion2>Hitman</Opcion2>
+    <Opcion3>Sniper Elite</Opcion3>
+    <RespuestaCorrecta>Hitman</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué videojuego se basa en construir civilizaciones a través del tiempo?</Enunciado>
+    <Opcion1>SimCity</Opcion1>
+    <Opcion2>Age of Empires</Opcion2>
+    <Opcion3>Civilization VI</Opcion3>
+    <RespuestaCorrecta>Civilization VI</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el título del videojuego que se desarrolla en Night City?</Enunciado>
+    <Opcion1>Cyberpunk 2077</Opcion1>
+    <Opcion2>Deus Ex</Opcion2>
+    <Opcion3>Watch Dogs: Legion</Opcion3>
+    <RespuestaCorrecta>Cyberpunk 2077</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego multijugador popular fue desarrollado por Epic Games?</Enunciado>
+    <Opcion1>Overwatch</Opcion1>
+    <Opcion2>Fortnite</Opcion2>
+    <Opcion3>Valorant</Opcion3>
+    <RespuestaCorrecta>Fortnite</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué saga aparece el personaje Arthur Morgan?</Enunciado>
+    <Opcion1>Red Dead Redemption</Opcion1>
+    <Opcion2>Call of Juarez</Opcion2>
+    <Opcion3>Far Cry</Opcion3>
+    <RespuestaCorrecta>Red Dead Redemption</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego de puzzles se caracteriza por su estética minimalista y música relajante?</Enunciado>
+    <Opcion1>The Witness</Opcion1>
+    <Opcion2>Tetris Effect</Opcion2>
+    <Opcion3>Journey</Opcion3>
+    <RespuestaCorrecta>Tetris Effect</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el nombre del protagonista en la serie Max Payne?</Enunciado>
+    <Opcion1>Max Payne</Opcion1>
+    <Opcion2>Jack Slate</Opcion2>
+    <Opcion3>Tommy Angelo</Opcion3>
+    <RespuestaCorrecta>Max Payne</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego de estrategia puedes jugar como los Zerg, Protoss o Terran?</Enunciado>
+    <Opcion1>Warcraft III</Opcion1>
+    <Opcion2>StarCraft</Opcion2>
+    <Opcion3>Command and Conquer</Opcion3>
+    <RespuestaCorrecta>StarCraft</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el nombre del soldado protagonista en la saga Gears of War?</Enunciado>
+    <Opcion1>Marcus Fenix</Opcion1>
+    <Opcion2>Dom Santiago</Opcion2>
+    <Opcion3>JD Fenix</Opcion3>
+    <RespuestaCorrecta>Marcus Fenix</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué videojuego puedes capturar criaturas con Pokéballs?</Enunciado>
+    <Opcion1>Pokémon</Opcion1>
+    <Opcion2>Digimon</Opcion2>
+    <Opcion3>Yo-kai Watch</Opcion3>
+    <RespuestaCorrecta>Pokémon</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál es el juego que revolucionó los juegos rítmicos con guitarra de plástico?</Enunciado>
+    <Opcion1>Guitar Hero</Opcion1>
+    <Opcion2>Beat Saber</Opcion2>
+    <Opcion3>Rock Band</Opcion3>
+    <RespuestaCorrecta>Guitar Hero</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego de terror en primera persona fue lanzado por Red Barrels?</Enunciado>
+    <Opcion1>Outlast</Opcion1>
+    <Opcion2>Amnesia</Opcion2>
+    <Opcion3>Observer</Opcion3>
+    <RespuestaCorrecta>Outlast</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué videojuego combina el género soulslike con samuráis y demonios japoneses?</Enunciado>
+    <Opcion1>Nioh</Opcion1>
+    <Opcion2>Sekiro</Opcion2>
+    <Opcion3>Wo Long</Opcion3>
+    <RespuestaCorrecta>Nioh</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Cuál de estos juegos es exclusivo de PlayStation?</Enunciado>
+    <Opcion1>Ghost of Tsushima</Opcion1>
+    <Opcion2>The Division</Opcion2>
+    <Opcion3>Control</Opcion3>
+    <RespuestaCorrecta>Ghost of Tsushima</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego encarnas a V, un mercenario personalizable?</Enunciado>
+    <Opcion1>Watch Dogs 2</Opcion1>
+    <Opcion2>Cyberpunk 2077</Opcion2>
+    <Opcion3>GTA Online</Opcion3>
+    <RespuestaCorrecta>Cyberpunk 2077</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué videojuego es conocido por su dificultad extrema y jefes gigantes?</Enunciado>
+    <Opcion1>Doom Eternal</Opcion1>
+    <Opcion2>Dark Souls</Opcion2>
+    <Opcion3>Hades</Opcion3>
+    <RespuestaCorrecta>Dark Souls</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué videojuego puedes usar armas biomecánicas llamadas Glaives?</Enunciado>
+    <Opcion1>Warframe</Opcion1>
+    <Opcion2>Destiny 2</Opcion2>
+    <Opcion3>Halo Infinite</Opcion3>
+    <RespuestaCorrecta>Warframe</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego es una aventura narrativa con decisiones que afectan la historia?</Enunciado>
+    <Opcion1>The Walking Dead</Opcion1>
+    <Opcion2>Detroit: Become Human</Opcion2>
+    <Opcion3>Ambos</Opcion3>
+    <RespuestaCorrecta>Ambos</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué título enfrenta a los jugadores en un escenario de 100 contra todos?</Enunciado>
+    <Opcion1>PUBG</Opcion1>
+    <Opcion2>Call of Duty: Warzone</Opcion2>
+    <Opcion3>Ambos</Opcion3>
+    <RespuestaCorrecta>Ambos</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego se desarrolla en un mundo devastado por máquinas y naturaleza?</Enunciado>
+    <Opcion1>Death Stranding</Opcion1>
+    <Opcion2>Horizon Forbidden West</Opcion2>
+    <Opcion3>Metal Gear Survive</Opcion3>
+    <RespuestaCorrecta>Horizon Forbidden West</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego desarrollas tu granja y relaciones con aldeanos?</Enunciado>
+    <Opcion1>Stardew Valley</Opcion1>
+    <Opcion2>Harvest Moon</Opcion2>
+    <Opcion3>Ambos</Opcion3>
+    <RespuestaCorrecta>Ambos</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué título de Capcom es un juego de cacería de monstruos?</Enunciado>
+    <Opcion1>Devil May Cry</Opcion1>
+    <Opcion2>Monster Hunter: World</Opcion2>
+    <Opcion3>Resident Evil 5</Opcion3>
+    <RespuestaCorrecta>Monster Hunter: World</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego indie combina acción rápida con narrativa misteriosa y espadas?</Enunciado>
+    <Opcion1>Hyper Light Drifter</Opcion1>
+    <Opcion2>Hollow Knight</Opcion2>
+    <Opcion3>Katana ZERO</Opcion3>
+    <RespuestaCorrecta>Katana ZERO</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿En qué juego puedes realizar asesinatos silenciosos en entornos abiertos?</Enunciado>
+    <Opcion1>Assassin's Creed</Opcion1>
+    <Opcion2>Dishonored</Opcion2>
+    <Opcion3>Ambos</Opcion3>
+    <RespuestaCorrecta>Ambos</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué personaje protagoniza la saga Bayonetta?</Enunciado>
+    <Opcion1>Bayonetta</Opcion1>
+    <Opcion2>Jeanne</Opcion2>
+    <Opcion3>Cereza</Opcion3>
+    <RespuestaCorrecta>Bayonetta</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué juego de Rockstar te pone en el papel de un detective en los años 40?</Enunciado>
+    <Opcion1>L.A. Noire</Opcion1>
+    <Opcion2>Mafia II</Opcion2>
+    <Opcion3>Max Payne 3</Opcion3>
+    <RespuestaCorrecta>L.A. Noire</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué título ofrece una historia episódica centrada en viajes en el tiempo?</Enunciado>
+    <Opcion1>Life is Strange</Opcion1>
+    <Opcion2>Tell Me Why</Opcion2>
+    <Opcion3>Heavy Rain</Opcion3>
+    <RespuestaCorrecta>Life is Strange</RespuestaCorrecta>
+</Pregunta>
+<Pregunta>
+    <Enunciado>¿Qué videojuego mezcla acción con una fuerte crítica política y social?</Enunciado>
+    <Opcion1>Bioshock Infinite</Opcion1>
+    <Opcion2>Spec Ops: The Line</Opcion2>
+    <Opcion3>Ambos</Opcion3>
+    <RespuestaCorrecta>Ambos</RespuestaCorrecta>
+</Pregunta>
+
 </Cuestionario>
 
 
