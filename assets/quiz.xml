@@ -1,0 +1,874 @@
+<Cuestionario>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del personaje principal en la saga The Legend of Zelda?</Enunciado>
+        <Opcion1>Link</Opcion1>
+        <Opcion2>Zelda</Opcion2>
+        <Opcion3>Ganondorf</Opcion3>
+        <RespuestaCorrecta>Link</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué año se lanzó el primer juego de la serie Pokémon?</Enunciado>
+        <Opcion1>1992</Opcion1>
+        <Opcion2>1996</Opcion2>
+        <Opcion3>2000</Opcion3>
+        <RespuestaCorrecta>1996</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama el creador de la saga Metal Gear?</Enunciado>
+        <Opcion1>Shigeru Miyamoto</Opcion1>
+        <Opcion2>Hideo Kojima</Opcion2>
+        <Opcion3>Sid Meier</Opcion3>
+        <RespuestaCorrecta>Hideo Kojima</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos juegos pertenece a la franquicia Soulsborne?</Enunciado>
+        <Opcion1>Dark Souls</Opcion1>
+        <Opcion2>Devil May Cry</Opcion2>
+        <Opcion3>Resident Evil</Opcion3>
+        <RespuestaCorrecta>Dark Souls</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué empresa desarrolló el juego Minecraft?</Enunciado>
+        <Opcion1>Epic Games</Opcion1>
+        <Opcion2>Mojang</Opcion2>
+        <Opcion3>Ubisoft</Opcion3>
+        <RespuestaCorrecta>Mojang</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del fontanero más famoso del mundo de los videojuegos?</Enunciado>
+        <Opcion1>Luigi</Opcion1>
+        <Opcion2>Mario</Opcion2>
+        <Opcion3>Wario</Opcion3>
+        <RespuestaCorrecta>Mario</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego introdujo la mecánica de construir estructuras en una batalla real?</Enunciado>
+        <Opcion1>Call of Duty</Opcion1>
+        <Opcion2>Fortnite</Opcion2>
+        <Opcion3>Apex Legends</Opcion3>
+        <RespuestaCorrecta>Fortnite</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es la consola de videojuegos más vendida de todos los tiempos?</Enunciado>
+        <Opcion1>PlayStation 2</Opcion1>
+        <Opcion2>Xbox 360</Opcion2>
+        <Opcion3>Nintendo Switch</Opcion3>
+        <RespuestaCorrecta>PlayStation 2</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué videojuego aparece el personaje Master Chief?</Enunciado>
+        <Opcion1>Doom</Opcion1>
+        <Opcion2>Gears of War</Opcion2>
+        <Opcion3>Halo</Opcion3>
+        <RespuestaCorrecta>Halo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego popular tiene un modo de juego llamado "Battle Royale"?</Enunciado>
+        <Opcion1>Warzone</Opcion1>
+        <Opcion2>Minecraft</Opcion2>
+        <Opcion3>Fortnite</Opcion3>
+        <RespuestaCorrecta>Fortnite</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del protagonista en la serie de juegos God of War?</Enunciado>
+        <Opcion1>Zeus</Opcion1>
+        <Opcion2>Kratos</Opcion2>
+        <Opcion3>Hercules</Opcion3>
+        <RespuestaCorrecta>Kratos</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego fue clave en la popularización del género MOBA?</Enunciado>
+        <Opcion1>League of Legends</Opcion1>
+        <Opcion2>World of Warcraft</Opcion2>
+        <Opcion3>Overwatch</Opcion3>
+        <RespuestaCorrecta>League of Legends</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué empresa desarrolló Grand Theft Auto?</Enunciado>
+        <Opcion1>Rockstar Games</Opcion1>
+        <Opcion2>EA Sports</Opcion2>
+        <Opcion3>Nintendo</Opcion3>
+        <RespuestaCorrecta>Rockstar Games</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama la princesa que Mario siempre intenta rescatar?</Enunciado>
+        <Opcion1>Rosalina</Opcion1>
+        <Opcion2>Daisy</Opcion2>
+        <Opcion3>Peach</Opcion3>
+        <RespuestaCorrecta>Peach</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál fue la primera consola de videojuegos de Sony?</Enunciado>
+        <Opcion1>PlayStation</Opcion1>
+        <Opcion2>PlayStation 2</Opcion2>
+        <Opcion3>PlayStation 3</Opcion3>
+        <RespuestaCorrecta>PlayStation</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué videojuego popular lanzó Rockstar Games en 2013?</Enunciado>
+        <Opcion1>Max Payne 3</Opcion1>
+        <Opcion2>Red Dead Redemption 2</Opcion2>
+        <Opcion3>Grand Theft Auto V</Opcion3>
+        <RespuestaCorrecta>Grand Theft Auto V</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego debes recolectar bellotas y construir tu isla?</Enunciado>
+        <Opcion1>Animal Crossing</Opcion1>
+        <Opcion2>Stardew Valley</Opcion2>
+        <Opcion3>Harvest Moon</Opcion3>
+        <RespuestaCorrecta>Animal Crossing</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué título de Nintendo es conocido por sus combates con espadas y exploración?</Enunciado>
+        <Opcion1>Kirby y la Tierra Olvidada </Opcion1>
+        <Opcion2>Mario + Rabbids: Sparks of Hope</Opcion2>
+        <Opcion3>The Legend of Zelda</Opcion3>
+        <RespuestaCorrecta>The Legend of Zelda</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego se enfrenta Samus Aran a los Piratas Espaciales?</Enunciado>
+        <Opcion1>Metroid</Opcion1>
+        <Opcion2>Halo</Opcion2>
+        <Opcion3>Mass Effect</Opcion3>
+        <RespuestaCorrecta>Metroid</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego luchas contra un dragón llamado Alduin?</Enunciado>
+        <Opcion1>The Elder Scrolls V: Skyrim</Opcion1>
+        <Opcion2>Dragon Age</Opcion2>
+        <Opcion3>The Witcher 3</Opcion3>
+        <RespuestaCorrecta>The Elder Scrolls V: Skyrim</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego de horror se ambienta en una nave espacial llamada USG Ishimura?</Enunciado>
+        <Opcion1>Alien: Isolation</Opcion1>
+        <Opcion2>Dead Space</Opcion2>
+        <Opcion3>System Shock</Opcion3>
+        <RespuestaCorrecta>Dead Space</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el título del juego en el que juegas con Kratos y su hijo Atreus?</Enunciado>
+        <Opcion1>God of War III </Opcion1>
+        <Opcion2>God of War (2018)</Opcion2>
+        <Opcion3>God of War: Ragnarok</Opcion3>
+        <RespuestaCorrecta>God of War (2018)</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama el sistema de físicas de Half-Life 2?</Enunciado>
+        <Opcion1>Source Engine</Opcion1>
+        <Opcion2>Havok Engine</Opcion2>
+        <Opcion3>Unreal Engine</Opcion3>
+        <RespuestaCorrecta>Source Engine</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué videojuego aparece el personaje Tom Nook?</Enunciado>
+        <Opcion1>The sims</Opcion1>
+        <Opcion2>Super Mario Bros</Opcion2>
+        <Opcion3>Animal Crossing</Opcion3>
+        <RespuestaCorrecta>Animal Crossing</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del famoso fontanero de los videojuegos?</Enunciado>
+        <Opcion1>Mario</Opcion1>
+        <Opcion2>Luigi</Opcion2>
+        <Opcion3>Bowser</Opcion3>
+        <RespuestaCorrecta>Mario</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego tiene un personaje azul llamado Sonic?</Enunciado>
+        <Opcion1>Knuckles</Opcion1>
+        <Opcion2>Shadow</Opcion2>
+        <Opcion3>Sonic</Opcion3>
+        <RespuestaCorrecta>Sonic</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego aparecen Pikachu y Charmander?</Enunciado>
+        <Opcion1>Kirby</Opcion1>
+        <Opcion2>Animal Crossing</Opcion2>
+        <Opcion3>Pokémon</Opcion3>
+        <RespuestaCorrecta>Pokémon</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego te permite construir con bloques?</Enunciado>
+        <Opcion1>Roblox</Opcion1>
+        <Opcion2>Fortnite</Opcion2>
+        <Opcion3>Minecraft</Opcion3>
+        <RespuestaCorrecta>Minecraft</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Quién intenta rescatar siempre a la princesa Peach?</Enunciado>
+        <Opcion1>Bowser</Opcion1>
+        <Opcion2>Luigi</Opcion2>
+        <Opcion3>Mario</Opcion3>
+        <RespuestaCorrecta>Mario</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje de videojuegos es un erizo azul muy rápido?</Enunciado>
+        <Opcion1>Sonic</Opcion1>
+        <Opcion2>Tails</Opcion2>
+        <Opcion3>Amy</Opcion3>
+        <RespuestaCorrecta>Sonic</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué animal es Yoshi?</Enunciado>
+        <Opcion1>Un dragón</Opcion1>
+        <Opcion2>Un dinosaurio</Opcion2>
+        <Opcion3>Un perro</Opcion3>
+        <RespuestaCorrecta>Un dinosaurio</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego tiene carreras de coches con Mario y sus amigos?</Enunciado>
+        <Opcion1>Forza Horizon</Opcion1>
+        <Opcion2>Gran Turismo</Opcion2>
+        <Opcion3>Mario Kart</Opcion3>
+        <RespuestaCorrecta>Mario Kart</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego aparece Kirby, un personaje rosa?</Enunciado>
+        <Opcion1>Mario Party</Opcion1>
+        <Opcion2>Kirby</Opcion2>
+        <Opcion3>Pokémon</Opcion3>
+        <RespuestaCorrecta>Kirby</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje ayuda a construir casas en Animal Crossing?</Enunciado>
+        <Opcion1>Tom Nook</Opcion1>
+        <Opcion2>Mario</Opcion2>
+        <Opcion3>Luigi</Opcion3>
+        <RespuestaCorrecta>Tom Nook</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego tiene un modo de batalla llamado "Battle Royale"?</Enunciado>
+        <Opcion1>Fortnite</Opcion1>
+        <Opcion2>Minecraft</Opcion2>
+        <Opcion3>Mario Kart</Opcion3>
+        <RespuestaCorrecta>Fortnite</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje de videojuegos come fantasmas?</Enunciado>
+        <Opcion1>Pac-Man</Opcion1>
+        <Opcion2>Mario</Opcion2>
+        <Opcion3>Kirby</Opcion3>
+        <RespuestaCorrecta>Pac-Man</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego tiene a Steve como personaje principal?</Enunciado>
+        <Opcion1>Minecraft</Opcion1>
+        <Opcion2>Roblox</Opcion2>
+        <Opcion3>Fortnite</Opcion3>
+        <RespuestaCorrecta>Minecraft</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego aparece Donkey Kong?</Enunciado>
+        <Opcion1>Donkey Kong</Opcion1>
+        <Opcion2>Mario Kart</Opcion2>
+        <Opcion3>Kirby</Opcion3>
+        <RespuestaCorrecta>Donkey Kong</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Quién es el hermano de Mario?</Enunciado>
+        <Opcion1>Luigi</Opcion1>
+        <Opcion2>Bowser</Opcion2>
+        <Opcion3>Wario</Opcion3>
+        <RespuestaCorrecta>Luigi</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué material necesitas para fabricar una mesa de trabajo en Minecraft?</Enunciado>
+        <Opcion1>Madera</Opcion1>
+        <Opcion2>Piedra</Opcion2>
+        <Opcion3>Hierro</Opcion3>
+        <RespuestaCorrecta>Madera</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué herramienta se utiliza para minar diamantes en Minecraft?</Enunciado>
+        <Opcion1>Pico de madera</Opcion1>
+        <Opcion2>Pico de piedra</Opcion2>
+        <Opcion3>Pico de hierro</Opcion3>
+        <RespuestaCorrecta>Pico de hierro</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué animal en Minecraft puede ser domesticado con huesos?</Enunciado>
+        <Opcion1>Lobo</Opcion1>
+        <Opcion2>Gato</Opcion2>
+        <Opcion3>Caballo</Opcion3>
+        <RespuestaCorrecta>Lobo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué necesitas para activar un portal al Nether?</Enunciado>
+        <Opcion1>Un mechero</Opcion1>
+        <Opcion2>Un cubo de agua</Opcion2>
+        <Opcion3>Un bloque de obsidiana</Opcion3>
+        <RespuestaCorrecta>Un mechero</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué criatura hostil aparece solo en el Nether?</Enunciado>
+        <Opcion1>Creeper</Opcion1>
+        <Opcion2>Esqueleto Wither</Opcion2>
+        <Opcion3>Enderman</Opcion3>
+        <RespuestaCorrecta>Esqueleto Wither</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué objeto necesitas para pescar en Minecraft?</Enunciado>
+        <Opcion1>Una caña de pescar</Opcion1>
+        <Opcion2>Un cubo de agua</Opcion2>
+        <Opcion3>Un arco</Opcion3>
+        <RespuestaCorrecta>Una caña de pescar</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué bloque se utiliza para fabricar vidrio en Minecraft?</Enunciado>
+        <Opcion1>Grava</Opcion1>
+        <Opcion2>Piedra</Opcion2>
+        <Opcion3>Arena</Opcion3>
+        <RespuestaCorrecta>Arena</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué criatura hostil explota cuando se acerca demasiado al jugador?</Enunciado>
+        <Opcion1>Creeper</Opcion1>
+        <Opcion2>Zombie</Opcion2>
+        <Opcion3>Araña</Opcion3>
+        <RespuestaCorrecta>Creeper</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué necesitas para fabricar una antorcha en Minecraft?</Enunciado>
+        <Opcion1>Palos y Piedra</Opcion1>
+        <Opcion2>Palos y carbón</Opcion2>
+        <Opcion3>Palos y hierro</Opcion3>
+        <RespuestaCorrecta>Palos y carbón</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué animal en Minecraft puede ser montado usando una silla de montar?</Enunciado>
+        <Opcion1>Caballo</Opcion1>
+        <Opcion2>Oveja</Opcion2>
+        <Opcion3>Cerdo</Opcion3>
+        <RespuestaCorrecta>Caballo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué bloque necesitas para fabricar un horno en Minecraft?</Enunciado>
+        <Opcion1>Hierro</Opcion1>
+        <Opcion2>Madera</Opcion2>
+        <Opcion3>Piedra</Opcion3>
+        <RespuestaCorrecta>Piedra</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué criatura hostil puede teletransportarse en Minecraft?</Enunciado>
+        <Opcion1>Enderman</Opcion1>
+        <Opcion2>Creeper</Opcion2>
+        <Opcion3>Zombie</Opcion3>
+        <RespuestaCorrecta>Enderman</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué herramienta se utiliza para cortar madera más rápido en Minecraft?</Enunciado>
+        <Opcion1>Espada</Opcion1>
+        <Opcion2>Pico</Opcion2>
+        <Opcion3>Hacha</Opcion3>
+        <RespuestaCorrecta>Hacha</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué bloque se utiliza para fabricar ladrillos en Minecraft?</Enunciado>
+        <Opcion1>Piedra</Opcion1>
+        <Opcion2>Arena</Opcion2>
+        <Opcion3>Arcilla</Opcion3>
+        <RespuestaCorrecta>Arcilla</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué necesitas para fabricar una cama en Minecraft?</Enunciado>
+        <Opcion1>Hierro y lana</Opcion1>
+        <Opcion2>Piedra y lana</Opcion2>
+        <Opcion3>Madera y lana</Opcion3>
+        <RespuestaCorrecta>Madera y lana</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué año se lanzó el primer juego de la saga The Legend of Zelda?</Enunciado>
+        <Opcion1>1990</Opcion1>
+        <Opcion2>1995</Opcion2>
+        <Opcion3>1986</Opcion3>
+        <RespuestaCorrecta>1986</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del villano principal en la serie de juegos Metal Gear?</Enunciado>
+        <Opcion1>Liquid Snake</Opcion1>
+        <Opcion2>Ocelot</Opcion2>
+        <Opcion3>Big Boss</Opcion3>
+        <RespuestaCorrecta>Liquid Snake</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego aparece el personaje Master Chief?</Enunciado>
+        <Opcion1>Gears of War</Opcion1>
+        <Opcion2>Call of Duty</Opcion2>
+        <Opcion3>Halo</Opcion3>
+        <RespuestaCorrecta>Halo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos juegos es famoso por su dificultad extrema?</Enunciado>
+        <Opcion1>Final Fantasy</Opcion1>
+        <Opcion2>Dark Souls</Opcion2>
+        <Opcion3>Minecraft</Opcion3>
+        <RespuestaCorrecta>Dark Souls</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué título de Nintendo tiene como protagonista a Samus Aran?</Enunciado>
+        <Opcion1>Metroid</Opcion1>
+        <Opcion2>Star Fox</Opcion2>
+        <Opcion3>F-Zero</Opcion3>
+        <RespuestaCorrecta>Metroid</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿En qué juego puedes jugar con Kratos y su hijo Atreus?</Enunciado>
+        <Opcion1>Assassin's Creed</Opcion1>
+        <Opcion2>God of War</Opcion2>
+        <Opcion3>Horizon Zero Dawn</Opcion3>
+        <RespuestaCorrecta>God of War</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos juegos pertenece a la serie Soulsborne?</Enunciado>
+        <Opcion1>Bloodborne</Opcion1>
+        <Opcion2>Tomb Raider</Opcion2>
+        <Opcion3>Devil May Cry</Opcion3>
+        <RespuestaCorrecta>Bloodborne</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Quién es el creador de la saga de videojuegos Mario Bros?</Enunciado>
+        <Opcion1>Hideo Kojima</Opcion1>
+        <Opcion2>Sid Meier</Opcion2>
+        <Opcion3>Shigeru Miyamoto</Opcion3>
+        <RespuestaCorrecta>Shigeru Miyamoto</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué juego tiene una mecánica de parkour en un mundo postapocalíptico?</Enunciado>
+        <Opcion1>The Last of Us</Opcion1>
+        <Opcion2>Dying Light</Opcion2>
+        <Opcion3>Days Gone</Opcion3>
+        <RespuestaCorrecta>Dying Light</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos juegos fue clave en la popularización del género Battle Royale?</Enunciado>
+        <Opcion1>Fall Guys</Opcion1>
+        <Opcion2>Among Us</Opcion2>
+        <Opcion3>PUBG</Opcion3>
+        <RespuestaCorrecta>PUBG</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué material necesitas para construir un portal al Nether en Minecraft?</Enunciado>
+        <Opcion1>Piedra</Opcion1>
+        <Opcion2>Obsidiana</Opcion2>
+        <Opcion3>Madera</Opcion3>
+        <RespuestaCorrecta>Obsidiana</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del modo de juego más popular de Fortnite?</Enunciado>
+        <Opcion1>Creativo</Opcion1>
+        <Opcion2>Battle Royale</Opcion2>
+        <Opcion3>Salvar el Mundo</Opcion3>
+        <RespuestaCorrecta>Battle Royale</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué animal puede ser domesticado en Minecraft para ayudarte a cazar esqueletos?</Enunciado>
+        <Opcion1>Caballo</Opcion1>
+        <Opcion2>Gato</Opcion2>
+        <Opcion3>Lobo</Opcion3>
+        <RespuestaCorrecta>Lobo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué recurso se obtiene al minar diamantes en Minecraft?</Enunciado>
+        <Opcion1>Hierro</Opcion1>
+        <Opcion2>Diamantes</Opcion2>
+        <Opcion3>Oro</Opcion3>
+        <RespuestaCorrecta>Diamantes</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué evento en Fortnite destruyó el mapa original del juego?</Enunciado>
+        <Opcion1>La Tormenta</Opcion1>
+        <Opcion2>El Agujero Negro</Opcion2>
+        <Opcion3>El Cubo</Opcion3>
+        <RespuestaCorrecta>El Agujero Negro</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué herramienta necesitas para recolectar madera en Minecraft?</Enunciado>
+        <Opcion1>Pico</Opcion1>
+        <Opcion2>Hacha</Opcion2>
+        <Opcion3>Pala</Opcion3>
+        <RespuestaCorrecta>Hacha</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué tipo de arma es exclusiva de Fortnite y no existe en Minecraft?</Enunciado>
+        <Opcion1>Arco</Opcion1>
+        <Opcion2>Escopeta</Opcion2>
+        <Opcion3>Espada</Opcion3>
+        <RespuestaCorrecta>Escopeta</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué criatura hostil aparece solo en el Nether en Minecraft?</Enunciado>
+        <Opcion1>Ghast</Opcion1>
+        <Opcion2>Enderman</Opcion2>
+        <Opcion3>Creeper</Opcion3>
+        <RespuestaCorrecta>Ghast</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué recurso necesitas para fabricar un escudo en Minecraft?</Enunciado>
+        <Opcion1>Madera y hierro</Opcion1>
+        <Opcion2>Piedra y madera</Opcion2>
+        <Opcion3>Oro y madera</Opcion3>
+        <RespuestaCorrecta>Madera y hierro</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué significa el término 'Victory Royale' en Fortnite?</Enunciado>
+        <Opcion1>Eliminar a un enemigo</Opcion1>
+        <Opcion2>Ganar una partida</Opcion2>
+        <Opcion3>Conseguir una skin legendaria</Opcion3>
+        <RespuestaCorrecta>Ganar una partida</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué bloque en Minecraft puede ser usado para hacer pociones?</Enunciado>
+        <Opcion1>Varas de Blaze</Opcion1>
+        <Opcion2>Arena de almas</Opcion2>
+        <Opcion3>Mesa de encantamientos</Opcion3>
+        <RespuestaCorrecta>Varas de Blaze</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué tipo de vehículo fue introducido en Fortnite durante el Capítulo 2?</Enunciado>
+        <Opcion1>Aviones</Opcion1>
+        <Opcion2>Botes</Opcion2>
+        <Opcion3>Coches</Opcion3>
+        <RespuestaCorrecta>Coches</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué criatura en Minecraft deja caer perlas de Ender?</Enunciado>
+        <Opcion1>Esqueleto</Opcion1>
+        <Opcion2>Zombie</Opcion2>
+        <Opcion3>Enderman</Opcion3>
+        <RespuestaCorrecta>Enderman</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué recurso es necesario para fabricar una cama en Minecraft?</Enunciado>
+        <Opcion1>Piedra y lana</Opcion1>
+        <Opcion2>Hierro y madera</Opcion2>
+        <Opcion3>Lana y madera</Opcion3>
+        <RespuestaCorrecta>Lana y madera</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué tipo de construcción es esencial para protegerte en Fortnite?</Enunciado>
+        <Opcion1>Muros y rampas</Opcion1>
+        <Opcion2>Casas</Opcion2>
+        <Opcion3>Torres</Opcion3>
+        <RespuestaCorrecta>Muros y rampas</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del modo de juego de Brawl Stars donde debes recoger gemas?</Enunciado>
+        <Opcion1>Supervivencia</Opcion1>
+        <Opcion2>Atraco</Opcion2>
+        <Opcion3>Atrapa Gemas</Opcion3>
+        <RespuestaCorrecta>Atrapa Gemas</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos brawlers es un tanque con escudo?</Enunciado>
+        <Opcion1>Shelly</Opcion1>
+        <Opcion2>Bull</Opcion2>
+        <Opcion3>Frank</Opcion3>
+        <RespuestaCorrecta>Frank</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué tipo de ataque tiene Piper en Brawl Stars?</Enunciado>
+        <Opcion1>Dispara un proyectil que hace más daño a distancia</Opcion1>
+        <Opcion2>Golpea con su paraguas</Opcion2>
+        <Opcion3>Invoca torretas</Opcion3>
+        <RespuestaCorrecta>Dispara un proyectil que hace más daño a distancia</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre de la moneda principal en Brawl Stars?</Enunciado>
+        <Opcion1>Gemas</Opcion1>
+        <Opcion2>Monedas</Opcion2>
+        <Opcion3>Fichas</Opcion3>
+        <RespuestaCorrecta>Monedas</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuántos jugadores hay en cada equipo en el modo Atrapa Gemas?</Enunciado>
+        <Opcion1>3</Opcion1>
+        <Opcion2>4</Opcion2>
+        <Opcion3>2</Opcion3>
+        <RespuestaCorrecta>3</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué brawler dispara cohetes y es conocido por su alto daño?</Enunciado>
+        <Opcion1>Colt</Opcion1>
+        <Opcion2>Brock</Opcion2>
+        <Opcion3>Poco</Opcion3>
+        <RespuestaCorrecta>Brock</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos brawlers es un curandero?</Enunciado>
+        <Opcion1>Poco</Opcion1>
+        <Opcion2>Bibi</Opcion2>
+        <Opcion3>Dynamike</Opcion3>
+        <RespuestaCorrecta>Poco</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje es famoso por lanzar dinamita?</Enunciado>
+        <Opcion1>El Primo</Opcion1>
+        <Opcion2>Dynamike</Opcion2>
+        <Opcion3>8-Bit</Opcion3>
+        <RespuestaCorrecta>Dynamike</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del modo de juego donde hay un gran robot jefe?</Enunciado>
+        <Opcion1>Supervivencia</Opcion1>
+        <Opcion2>Asedio</Opcion2>
+        <Opcion3>Atrapa Gemas</Opcion3>
+        <RespuestaCorrecta>Asedio</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llaman los puntos que necesitas para mejorar brawlers?</Enunciado>
+        <Opcion1>Tickets</Opcion1>
+        <Opcion2>Puntos de fuerza</Opcion2>
+        <Opcion3>Estrellas</Opcion3>
+        <RespuestaCorrecta>Puntos de fuerza</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos brawlers tiene una habilidad para volverse invisible?</Enunciado>
+        <Opcion1>Leon</Opcion1>
+        <Opcion2>Crow</Opcion2>
+        <Opcion3>Sandy</Opcion3>
+        <RespuestaCorrecta>Leon</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del evento donde los jugadores enfrentan robots?</Enunciado>
+        <Opcion1>Robo Rumble</Opcion1>
+        <Opcion2>Asedio</Opcion2>
+        <Opcion3>Caza Estelar</Opcion3>
+        <RespuestaCorrecta>Robo Rumble</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué brawler usa un bate de béisbol?</Enunciado>
+        <Opcion1>Bibi</Opcion1>
+        <Opcion2>Barley</Opcion2>
+        <Opcion3>Mortis</Opcion3>
+        <RespuestaCorrecta>Bibi</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué habilidad tiene Crow al atacar?</Enunciado>
+        <Opcion1>Envenena a los enemigos</Opcion1>
+        <Opcion2>Dispara cohetes</Opcion2>
+        <Opcion3>Invoca esqueletos</Opcion3>
+        <RespuestaCorrecta>Envenena a los enemigos</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál de estos brawlers es robótico?</Enunciado>
+        <Opcion1>8-Bit</Opcion1>
+        <Opcion2>Nita</Opcion2>
+        <Opcion3>Max</Opcion3>
+        <RespuestaCorrecta>8-Bit</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el objetivo principal en Fortnite: Battle Royale?</Enunciado>
+        <Opcion1>Construir casas</Opcion1>
+        <Opcion2>Ser el último en pie</Opcion2>
+        <Opcion3>Conseguir monedas</Opcion3>
+        <RespuestaCorrecta>Ser el último en pie</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué recurso NO se recolecta en Minecraft?</Enunciado>
+        <Opcion1>Madera</Opcion1>
+        <Opcion2>Piedra</Opcion2>
+        <Opcion3>Plástico</Opcion3>
+        <RespuestaCorrecta>Plástico</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del modo de juego donde debes recoger gemas?</Enunciado>
+        <Opcion1>Supervivencia</Opcion1>
+        <Opcion2>Atraco</Opcion2>
+        <Opcion3>Atrapa Gemas</Opcion3>
+        <RespuestaCorrecta>Atrapa Gemas</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del creador original de Minecraft?</Enunciado>
+        <Opcion1>Notch</Opcion1>
+        <Opcion2>ElRubius</Opcion2>
+        <Opcion3>EpicGames</Opcion3>
+        <RespuestaCorrecta>Notch</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje de Brawl Stars es un francotirador robot?</Enunciado>
+        <Opcion1>Rico</Opcion1>
+        <Opcion2>Colt</Opcion2>
+        <Opcion3>8-Bit</Opcion3>
+        <RespuestaCorrecta>Rico</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué pasa cuando llegas al final del End en Minecraft?</Enunciado>
+        <Opcion1>Te enfrentas al Dragón del End</Opcion1>
+        <Opcion2>Encuentras diamantes infinitos</Opcion2>
+        <Opcion3>Termina el juego</Opcion3>
+        <RespuestaCorrecta>Te enfrentas al Dragón del End</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué se necesita para crear una cama en Minecraft?</Enunciado>
+        <Opcion1>Madera y lana</Opcion1>
+        <Opcion2>Piedra y hierro</Opcion2>
+        <Opcion3>Trigo y cuero</Opcion3>
+        <RespuestaCorrecta>Madera y lana</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama el evento final en una temporada de Fortnite?</Enunciado>
+        <Opcion1>Fiesta Final</Opcion1>
+        <Opcion2>Evento de Temporada</Opcion2>
+        <Opcion3>Evento Final</Opcion3>
+        <RespuestaCorrecta>Evento Final</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué brawler tiene una torreta que cura?</Enunciado>
+        <Opcion1>Pam</Opcion1>
+        <Opcion2>Jessie</Opcion2>
+        <Opcion3>Barley</Opcion3>
+        <RespuestaCorrecta>Pam</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué arma es más común en Fortnite?</Enunciado>
+        <Opcion1>Escopeta táctica</Opcion1>
+        <Opcion2>Rifle de asalto gris</Opcion2>
+        <Opcion3>Lanzacohetes</Opcion3>
+        <RespuestaCorrecta>Rifle de asalto gris</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué mineral es más valioso en Minecraft?</Enunciado>
+        <Opcion1>Hierro</Opcion1>
+        <Opcion2>Diamante</Opcion2>
+        <Opcion3>Carbón</Opcion3>
+        <RespuestaCorrecta>Diamante</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué brawler dispara bolas de fuego que queman el suelo?</Enunciado>
+        <Opcion1>Dynamike</Opcion1>
+        <Opcion2>Barley</Opcion2>
+        <Opcion3>El Primo</Opcion3>
+        <RespuestaCorrecta>Barley</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué objeto necesitas para activar el portal al Nether?</Enunciado>
+        <Opcion1>Polvo de Blaze</Opcion1>
+        <Opcion2>Encendedor</Opcion2>
+        <Opcion3>Diamante</Opcion3>
+        <RespuestaCorrecta>Encendedor</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el color de la tormenta en Fortnite?</Enunciado>
+        <Opcion1>Rojo</Opcion1>
+        <Opcion2>Morado</Opcion2>
+        <Opcion3>Azul</Opcion3>
+        <RespuestaCorrecta>Morado</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del mapa clásico de Brawl Stars?</Enunciado>
+        <Opcion1>Estrella Solitaria</Opcion1>
+        <Opcion2>Showdown</Opcion2>
+        <Opcion3>Campo de Batalla</Opcion3>
+        <RespuestaCorrecta>Showdown</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué modo de juego en Fortnite permite revivir compañeros?</Enunciado>
+        <Opcion1>En solitario</Opcion1>
+        <Opcion2>Dúo</Opcion2>
+        <Opcion3>Creativo</Opcion3>
+        <RespuestaCorrecta>Dúo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué necesitas para craftear una mesa de trabajo en Minecraft?</Enunciado>
+        <Opcion1>4 bloques de madera</Opcion1>
+        <Opcion2>4 lingotes de hierro</Opcion2>
+        <Opcion3>2 palos y piedra</Opcion3>
+        <RespuestaCorrecta>4 bloques de madera</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama el modo 3v3 clásico en Brawl Stars?</Enunciado>
+        <Opcion1>Supervivencia</Opcion1>
+        <Opcion2>Balón Brawl</Opcion2>
+        <Opcion3>Enfrentamiento</Opcion3>
+        <RespuestaCorrecta>Balón Brawl</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje lanza bolas de energía desde una consola en Brawl Stars?</Enunciado>
+        <Opcion1>8-Bit</Opcion1>
+        <Opcion2>Bo</Opcion2>
+        <Opcion3>Spike</Opcion3>
+        <RespuestaCorrecta>8-Bit</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué bloque necesitas para dormir en Minecraft?</Enunciado>
+        <Opcion1>Silla</Opcion1>
+        <Opcion2>Cama</Opcion2>
+        <Opcion3>Alfombra</Opcion3>
+        <RespuestaCorrecta>Cama</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué recurso se usa para hacer antorchas en Minecraft?</Enunciado>
+        <Opcion1>Piedra</Opcion1>
+        <Opcion2>Carbón</Opcion2>
+        <Opcion3>Tierra</Opcion3>
+        <RespuestaCorrecta>Carbón</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama el brawler con un boomerang?</Enunciado>
+        <Opcion1>Leon</Opcion1>
+        <Opcion2>Bo</Opcion2>
+        <Opcion3>Brock</Opcion3>
+        <RespuestaCorrecta>Bo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el nombre del modo creativo en Fortnite?</Enunciado>
+        <Opcion1>Editor</Opcion1>
+        <Opcion2>Fortnite Creador</Opcion2>
+        <Opcion3>Modo Creativo</Opcion3>
+        <RespuestaCorrecta>Modo Creativo</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué criatura aparece por la noche en Minecraft?</Enunciado>
+        <Opcion1>Zombie</Opcion1>
+        <Opcion2>Gallina</Opcion2>
+        <Opcion3>Cerdo</Opcion3>
+        <RespuestaCorrecta>Zombie</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué arma tiene un gran alcance en Fortnite?</Enunciado>
+        <Opcion1>Escopeta</Opcion1>
+        <Opcion2>Subfusil</Opcion2>
+        <Opcion3>Franco tirador</Opcion3>
+        <RespuestaCorrecta>Franco tirador</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué se consigue al minar diamante en Minecraft?</Enunciado>
+        <Opcion1>Lingote</Opcion1>
+        <Opcion2>Diamante</Opcion2>
+        <Opcion3>Polvo de diamante</Opcion3>
+        <RespuestaCorrecta>Diamante</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el enemigo final en Minecraft?</Enunciado>
+        <Opcion1>Wither</Opcion1>
+        <Opcion2>Dragón del End</Opcion2>
+        <Opcion3>Zombie gigante</Opcion3>
+        <RespuestaCorrecta>Dragón del End</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Qué personaje de Brawl Stars se vuelve invisible?</Enunciado>
+        <Opcion1>Leon</Opcion1>
+        <Opcion2>Sandy</Opcion2>
+        <Opcion3>Spike</Opcion3>
+        <RespuestaCorrecta>Leon</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cuál es el tipo de munición en Fortnite?</Enunciado>
+        <Opcion1>Flechas</Opcion1>
+        <Opcion2>Cartuchos</Opcion2>
+        <Opcion3>Balas</Opcion3>
+        <RespuestaCorrecta>Balas</RespuestaCorrecta>
+    </Pregunta>
+    <Pregunta>
+        <Enunciado>¿Cómo se llama el objeto que te permite volar en Minecraft creativo?</Enunciado>
+        <Opcion1>Alas de dragón</Opcion1>
+        <Opcion2>Elytra</Opcion2>
+        <Opcion3>Pico encantado</Opcion3>
+        <RespuestaCorrecta>Elytra</RespuestaCorrecta>
+    </Pregunta>
+</Cuestionario>
+
+
+
+
